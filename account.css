@@ -3,28 +3,38 @@
     grid-template-columns: 50%50%;
     margin-right: 10px;
     border: left solid  purple 4px;
+    padding-top: 50px;
 
 }
-#image{
-    width: 50px;
-    display: flex;
-}
-#icon{
-    width: 50px;
-    display: flex;
+
+.input{
+     border-radius: 8px;
+     width: 60%;
+     padding: 12px 22px;
+
 }
 #button{
     background-color:purple;
-    width: 400px;
+    color: white;
+    width: 100%;
+    padding: 12px 22px;
+
+
 }
 #draw{
-    width: 500px;
+    width: 150%;
 }
 #container{
     border-left: solid purple 4px;
     padding-left: 100px;
+
 }
 #header{
-    background-color: purple;
-    color: black;
+    background-color: white;
+    color: purple;
+    
+}
+.names{
+    display: inline-table; width:40%;
+    
 }
