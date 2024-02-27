@@ -1,0 +1,30 @@
+.form{
+    display: grid;
+    grid-template-columns: 50%50%;
+    margin-right: 10px;
+    border: left solid  purple 4px;
+
+}
+#image{
+    width: 50px;
+    display: flex;
+}
+#icon{
+    width: 50px;
+    display: flex;
+}
+#button{
+    background-color:purple;
+    width: 400px;
+}
+#draw{
+    width: 500px;
+}
+#container{
+    border-left: solid purple 4px;
+    padding-left: 100px;
+}
+#header{
+    background-color: purple;
+    color: black;
+}
